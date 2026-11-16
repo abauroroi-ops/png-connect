@@ -1,0 +1,9 @@
+## Copy this file to local.properties and fill in your values.
+## Never commit local.properties to git.
+#
+# sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+# (or on Mac/Linux: sdk.dir=/Users/YourName/Library/Android/sdk)
+#
+# Optional keys (you can also set them as environment variables):
+# AGORA_APP_ID=your_agora_app_id_here
+# SUPABASE_URL=https://your-project-ref.supabase.co
